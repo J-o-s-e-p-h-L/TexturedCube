@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/OOOOOOOO/Documents/University/2017 Session 1/COMP434/CPD/COMP330/Joseph Lewis/TexturedCube/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/OOOOOOOO/.android/build-cache/1b80787b81812503b32ea6b2b3dd89e135e362e5/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

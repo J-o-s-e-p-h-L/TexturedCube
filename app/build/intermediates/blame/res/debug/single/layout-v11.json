@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/OOOOOOOO/Documents/University/2017 Session 1/COMP434/CPD/COMP330/Joseph Lewis/TexturedCube/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/OOOOOOOO/.android/build-cache/1b80787b81812503b32ea6b2b3dd89e135e362e5/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/OOOOOOOO/Documents/University/2017 Session 1/COMP434/CPD/COMP330/Joseph Lewis/TexturedCube/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/OOOOOOOO/.android/build-cache/1b80787b81812503b32ea6b2b3dd89e135e362e5/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/OOOOOOOO/Documents/University/2017 Session 1/COMP434/CPD/COMP330/Joseph Lewis/TexturedCube/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/OOOOOOOO/.android/build-cache/1b80787b81812503b32ea6b2b3dd89e135e362e5/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/OOOOOOOO/Documents/University/2017 Session 1/COMP434/CPD/COMP330/Joseph Lewis/TexturedCube/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/OOOOOOOO/.android/build-cache/1b80787b81812503b32ea6b2b3dd89e135e362e5/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/OOOOOOOO/Documents/University/2017 Session 1/COMP434/CPD/COMP330/Joseph Lewis/TexturedCube/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/OOOOOOOO/.android/build-cache/1b80787b81812503b32ea6b2b3dd89e135e362e5/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/OOOOOOOO/Documents/University/2017 Session 1/COMP434/CPD/COMP330/Joseph Lewis/TexturedCube/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/OOOOOOOO/.android/build-cache/1b80787b81812503b32ea6b2b3dd89e135e362e5/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]
